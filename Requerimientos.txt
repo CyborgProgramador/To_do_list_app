@@ -1,0 +1,6 @@
+Librerías y módulos requeridos:
+
+Tkinter   
+- ttk (módulo)
+- messagebox (módulo)
+- SQL3
